@@ -106,3 +106,4 @@ window.toggleAlwaysOnTop = function(enable = true) {
         console.log('Could not toggle always on top:', error)
     }
 }
+window.toggleAlwaysOnTop (true);
